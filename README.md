@@ -36,4 +36,4 @@ The dataset used for this project is the ISIC (International Skin Imaging Collab
 - The dataset used in this project is from the International Skin Imaging Collaboration (ISIC) Archive.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@SaadTeli] - feel free to contact me!
